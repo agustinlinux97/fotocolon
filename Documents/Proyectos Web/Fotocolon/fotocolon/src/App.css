@@ -1,0 +1,25 @@
+:root {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: rgb(16, 17, 17);
+  font-family: "Quicksand", sans-serif;
+}
+
+.section {
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+#productos {
+  background-color: #f9f9f9;
+}
+
+#servicios {
+  background-color: #e0e0e0;
+}
+
+#contacto {
+  background-color: #d0d0d0;
+}
